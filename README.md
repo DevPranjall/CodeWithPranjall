@@ -1,7 +1,9 @@
-#🚀CodeWithPranjall
+CodeWithPranjall
 My coding journey as an IT engineering student learning Java, practicing DSA, exploring full-stack development, and building projects step by step.
 <br>
-Author -Pranjal Sonawane 
+Author -Pranjal Sonawane
+
+#🚀CodeWithPranjall
 Welcome to my coding journey!
 I am an Information Technology engineering student passionate about learning programming, software development, and new technologies.
 
